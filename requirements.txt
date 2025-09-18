@@ -1,2 +1,1 @@
-gemini
-adk
+google-adk
